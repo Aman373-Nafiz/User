@@ -8,7 +8,8 @@ A modern Flutter application demonstrating **Clean Architecture** principles wit
 
 ## 📱 Screenshots
 
-*Add your app screenshots here*
+<img width="622" height="992" alt="image" src="https://github.com/user-attachments/assets/83a3dba4-6435-403a-989f-86fd4c104512" />
+
 
 ## ✨ Features
 
